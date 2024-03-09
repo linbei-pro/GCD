@@ -1,7 +1,7 @@
 
 #include<stdio.h>
 
-int gcd(int m, int n)
+int gcd(int m, int n)//辗转相除法
 {
 	if (n == 0)
 	{
